@@ -1,0 +1,16 @@
+opencv-python==4.7.0.68
+torch==1.13.1
+torchvision==0.14.1
+matplotlib
+h5py
+tqdm
+scikit-learn
+cython
+pycocotools
+segmentation-models-pytorch==0.2.1
+albumentations
+k3d
+timm
+ipykernel
+open3d
+tensorboard
